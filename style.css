@@ -139,4 +139,17 @@ header {
   text-align: end;
   padding: 15px;
 }  
-  
+ #google_playstore{
+    height:50px;
+    width:140px;
+    border-radius: 8px;
+ }  
+ #Apple{
+  height:50px;
+  width:140px;
+  border-radius: 8px;
+ }
+ .Downloads{
+   display: flex;
+   gap:10px;
+ }
